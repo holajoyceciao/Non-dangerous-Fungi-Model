@@ -3,7 +3,7 @@ This app is trained with 1,001 images with 10 classes of fungi using fine-tuning
 
 #### Source 
 - [Data]()
-- [Non-dangerous-Fungi - Source Code]()
+- [Non-dangerous-Fungi - Source Code](https://github.com/holajoyceciao/Non-dangerous-Fungi-Model/blob/main/Model.py)
 - PyTorch - [RestNet18](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html#torchvision.models.ResNet18_Weights)
 
 # Model Goal:
