@@ -1,5 +1,5 @@
 # Non-dangerous-Fungi-Model
-This app is trained with 1,001 images with 10 classes of fungi using fine-tuning Resnet18. 
+This model is trained with 1,001 images with 10 classes of fungi using fine-tuning Resnet18. 
 
 #### Source 
 - [Data]()
